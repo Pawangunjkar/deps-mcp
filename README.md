@@ -10,7 +10,7 @@ Sibling servers: [github-mcp](https://github.com/Pawangunjkar/github-mcp), [db-m
 
 | Item | Value |
 | --- | --- |
-| Package | `pawangunjkar-deps-mcp` |
+| Package | `deps-mcp` |
 | Runtime | Python 3.10+, FastMCP, stdio |
 | Ecosystems | npm (`npm audit`), Maven (`dependency:tree`), Python manifests |
 | Advisories | GitHub Advisory API (`npm`, `maven`, `pip`, `nuget`) |
